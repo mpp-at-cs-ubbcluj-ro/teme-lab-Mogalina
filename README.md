@@ -1,4 +1,17 @@
-# github-starting
-Starting with GitHub and IntelliJ
+# Laboratory Work Changelog
 
-Folosind IntelliJ, descarcati acest proiect pe calculatorul personal, adaugati o clasa  Java care tipareste un mesaj la consola si actualizati fisierele din repository-ul corespunzator.
+## Laboratory 1
+
+- Uploaded work.
+
+## Laboratory 2
+
+- Uploaded work.
+
+## Laboratory 3
+
+- Uploaded work.
+
+## Laboratory 4
+
+- Uploaded work.
