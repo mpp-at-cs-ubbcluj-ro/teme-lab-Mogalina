@@ -33,7 +33,7 @@ public class MainBD {
             System.out.println(car);
         }
 
-        Car updatedCar = new Car("BMW", "E46", 2020);
+        Car updatedCar = new Car("BMW", "E56", 2020);
         int id = 8;
         carRepo.update(id, updatedCar);
         for (Car car : carRepo.findAll()) {

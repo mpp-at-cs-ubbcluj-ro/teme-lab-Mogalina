@@ -94,7 +94,7 @@ public class ComputerRepairRequest implements Identifiable<Integer>, Serializabl
         return
                 "ID=" + ID +
                         ", ownerName='" + ownerName + '\'' +
-                        ", model='" + model + '\'' +
+                        ", ro.mpp2024.model='" + model + '\'' +
                         ", date='" + date + '\'' +
                         ", problemDescription='" + problemDescription + '\'';
 

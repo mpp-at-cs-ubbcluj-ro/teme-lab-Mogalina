@@ -13,7 +13,7 @@ public class ComputerShopMain {
         repo.add(new ComputerRepairRequest(1, "A A", "Address A", "072222", "Asus", "13/10/2020", "Broken display"));
         repo.add(new ComputerRepairRequest(2, "B B", "Address B", "072222", "Acer", "10/10/2020", "Faulty keyboard"));
 
-        System.out.println("Afisam datele din repository ...");
+        System.out.println("Afisam datele din ro.mpp2024.repository ...");
         for (ComputerRepairRequest first : repo.findAll())
             System.out.println(first);
 

@@ -1,13 +1,4 @@
-# Laboratory Changelog
+# github-starting
+Starting with GitHub and IntelliJ
 
-## Laboratory 1
-
-- Upload `UML` Class Diagram.
-
-## Laboratory 2
-
-- Configure `Gradle` project with personalized configuration.
-
-## Laboratory 3
-
-- Create `SQLite` database and open new connection.
+Folosind IntelliJ, descarcati acest proiect pe calculatorul personal, adaugati o clasa  Java care tipareste un mesaj la consola si actualizati fisierele din repository-ul corespunzator.

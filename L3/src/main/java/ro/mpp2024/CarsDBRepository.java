@@ -29,7 +29,7 @@ public class CarsDBRepository implements CarRepository {
                 while (result.next()) {
                     int id = result.getInt("id");
                     String manufacturer = result.getString("manufacturer");
-                    String model = result.getString("model");
+                    String model = result.getString("ro.mpp2024.model");
                     int year = result.getInt("year");
 
                     Car car = new Car(manufacturer, model, year);
@@ -59,7 +59,7 @@ public class CarsDBRepository implements CarRepository {
                 while (result.next()) {
                     int id = result.getInt("id");
                     String manufacturer = result.getString("manufacturer");
-                    String model = result.getString("model");
+                    String model = result.getString("ro.mpp2024.model");
                     int year = result.getInt("year");
 
                     Car car = new Car(manufacturer, model, year);
@@ -126,7 +126,7 @@ public class CarsDBRepository implements CarRepository {
                 while (result.next()) {
                     int id = result.getInt("id");
                     String manufacturer = result.getString("manufacturer");
-                    String model = result.getString("model");
+                    String model = result.getString("ro.mpp2024.model");
                     int year = result.getInt("year");
 
                     Car car = new Car(manufacturer, model, year);
